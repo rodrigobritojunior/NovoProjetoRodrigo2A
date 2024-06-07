@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    background-color: black;
+    background-color: white;
 }
 @import url("styles/header.css");
 :root {
@@ -21,7 +21,13 @@ h1 {
     /* código omitido */
     
         --laranja: #EB9B00;
+        --azul-degrade:linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     }
     
     /* código omitido */
-    
+    :root {
+        --cor-de-fundo: #ebecee;
+        --branco: #ffffff;
+        --laranja: #eb9b00;
+      }
+      
