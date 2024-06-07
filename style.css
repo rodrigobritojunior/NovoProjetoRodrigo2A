@@ -1,6 +1,8 @@
 :root {
-    --cor-de-fundo: #EBECEE;
-}
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+    --laranja: #eb9b00;
+  }
 
 body {
     background-color: var(--cor-de-fundo);
@@ -25,9 +27,5 @@ h1 {
     }
     
     /* código omitido */
-    :root {
-        --cor-de-fundo: #ebecee;
-        --branco: #ffffff;
-        --laranja: #eb9b00;
-      }
+   
       
