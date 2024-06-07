@@ -1,0 +1,27 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    background-color: white;
+}
+@import url("styles/header.css");
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
+/* código omitido */
+
+:root {
+
+    /* código omitido */
+    
+        --laranja: #EB9B00;
+    }
+    
+    /* código omitido */
+    
