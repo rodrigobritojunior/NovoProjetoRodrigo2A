@@ -21,7 +21,7 @@
 }
 
 .container__imagem {
-    <!--padding: 1em;-->
+    padding: 1em;
 }
 
 .lista-menu {
@@ -62,3 +62,6 @@
     width: 60vw;
   }
   
+  .container__botao {
+    display: none
+}
